@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "815840572297",
+    "project_id": "smarte-com",
+    "storage_bucket": "smarte-com.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815840572297:android:e36ceaf2b182d6e6f42758",
+        "android_client_info": {
+          "package_name": "uk.ac.tees.smart.b1335534"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815840572297-o4ljhgnst0pvlmu1jrnbvehh5h4lio2h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uk.ac.tees.smart.b1335534",
+            "certificate_hash": "10f5d9f030bcecae9447339ad23d4696a04a4c6d"
+          }
+        },
+        {
+          "client_id": "815840572297-r4f511gevtg0t35vv712on3mqgtqaojm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcR3syMh3ZkYo2mjb-usUj_qnGnHs9nFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815840572297-r4f511gevtg0t35vv712on3mqgtqaojm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
